@@ -1,5 +1,5 @@
-#ifndef A2DD_H
-#define A2DD_H
+#ifndef MATH_H
+#define MATH_H
 #include <ctime>
 #include<iostream>
 
